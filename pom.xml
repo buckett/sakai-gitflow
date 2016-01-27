@@ -9,7 +9,7 @@
         <relativePath>master/pom.xml</relativePath>
     </parent>
 
-    <name>Sakai base pom</name>
+    <name>Sakai Base POM</name>
     <groupId>org.sakaiproject</groupId>
     <artifactId>base</artifactId>
     <version>11-SNAPSHOT</version>
