@@ -9,6 +9,7 @@
         <relativePath>master/pom.xml</relativePath>
     </parent>
     <!-- Bugfix/hotfix that didn't use git-flow -->
+    <!-- Another Bugfix/hotfix that didn't use git-flow -->
 
     <name>Sakai Base POM</name>
     <groupId>org.sakaiproject</groupId>
